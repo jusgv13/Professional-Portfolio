@@ -3,17 +3,17 @@
 ### EDUCATION
 _________________________________________________________________
 
-- Software Engineering  | Bachelor’s Degree  | Universidad Nacional de Costa Rica (UNA) | (_May 2023_)								       		
+- Software Engineering | Bachelor’s Degree | Universidad Nacional de Costa Rica (UNA) | (_May 2023_)								       		
 - Programming of Computer Applications Diploma Universidad Nacional de Costa Rica (UNA) (_November 2022_)	 			        		
 - Customer Service / High School Diploma C.T.P Jesús Ocaña Rojas (_December 2017_)
 
 ### EXPERIENCE
 _____________________________________________________________________
 
-- MICROSOFT 
-Support Engineer Intern
-Sabana Sur, San José 
-(7 months, 2023)
+- ##MICROSOFT 
+| Support Engineer Intern
+| Sabana Sur, San José 
+| (7 months, 2023)
 
 - ARTECH 
 Software Engineer 
@@ -25,7 +25,7 @@ Manager/Trainer, Customer Service, Floor Support
 Aurora, Heredia 
 (3 Years/ 6 months, 2018-2022)
 
-### SKILLS AND CERTIFICATIONS
+### CERTIFICATIONS
 _____________________________________________________________________
 
 ### PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
