@@ -1,34 +1,34 @@
 # Software Engineer
 
-### EDUCATION
+## EDUCATION
 _________________________________________________________________
 
-- Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree(May 2023)								       		
+- Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree (May 2023)								       		
 - Programming of Computer Applications Diploma Universidad Nacional de Costa Rica (UNA) (_November 2022_)	 			        		
 - Customer Service / High School Diploma C.T.P Jesús Ocaña Rojas (_December 2017_)
 
-### EXPERIENCE
+## EXPERIENCE
 _____________________________________________________________________
 
-##MICROSOFT 
-| Support Engineer Intern
-| Sabana Sur, San José 
-| (7 months, 2023)
+- MICROSOFT **bold text**
+Support Engineer Intern
+Sabana Sur, San José 
+(7 months, 2023)
 
-- ARTECH 
+- ARTECH  **bold text**
 Software Engineer 
 Santa Ana, San José 
 (7 months, 2022-2023)
 
-- SYKES 
+- SYKES  **bold text**
 Manager/Trainer, Customer Service, Floor Support
 Aurora, Heredia 
 (3 Years/ 6 months, 2018-2022)
 
-### CERTIFICATIONS
+## CERTIFICATIONS
 _____________________________________________________________________
 
-### PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
+## PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
 _____________________________________________________________________
 
 Municipalidad de Sarchí 
