@@ -3,30 +3,37 @@
 ## EDUCATION
 _________________________________________________________________
 
-- Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree (May 2023)								       		
-- Programming of Computer Applications Diploma Universidad Nacional de Costa Rica (UNA) (_November 2022_)	 			        		
-- Customer Service / High School Diploma C.T.P Jesús Ocaña Rojas (_December 2017_)
+* Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree (May 2023)								       		
+* Programming of Computer Applications Diploma Universidad Nacional de Costa Rica (UNA) (_November 2022_)	 			        		
+* Customer Service / High School Diploma C.T.P Jesús Ocaña Rojas (_December 2017_)
 
 ## EXPERIENCE
 _____________________________________________________________________
 
-- MICROSOFT **bold text**
+- **MICROSOFT**
 Support Engineer Intern
 Sabana Sur, San José 
 (7 months, 2023)
 
-- ARTECH  **bold text**
+- **ARTECH**  
 Software Engineer 
 Santa Ana, San José 
 (7 months, 2022-2023)
 
-- SYKES  **bold text**
+- **SYKES**
 Manager/Trainer, Customer Service, Floor Support
 Aurora, Heredia 
 (3 Years/ 6 months, 2018-2022)
 
+
 ## CERTIFICATIONS
 _____________________________________________________________________
+
+* Microsoft Certified: Azure Fundamentals (AZ-900).
+* Microsoft Certified: Azure AI Fundamentals (AI-900).
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
+* Microsoft 365 Certified: Fundamentals (MS-900).
+* Scrum Fundamentals Certified (SFC) SCRUM study.
 
 ## PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
 _____________________________________________________________________
