@@ -12,17 +12,17 @@ _____________________________________________________________________
 
 - **MICROSOFT**
 Support Engineer Intern
-Sabana Sur, San José 
+Sabana Sur, San José
 (7 months, 2023)
 
 - **ARTECH**  
-Software Engineer 
-Santa Ana, San José 
+Software Engineer
+Santa Ana, San José
 (7 months, 2022-2023)
 
 - **SYKES**
 Manager/Trainer, Customer Service, Floor Support
-Aurora, Heredia 
+Aurora, Heredia
 (3 Years/ 6 months, 2018-2022)
 
 
