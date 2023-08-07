@@ -36,6 +36,7 @@ _____________________________________________________________________
 - Programming Languages: C, C++, C#, Java, JavaScript, HTML.
 - Databases: Microsoft SQL.
 - Version Control Systems: GitHub.
+- Business English Level B2+.
   
 <br />
 
