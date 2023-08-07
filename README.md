@@ -22,11 +22,11 @@ _____________________________________________________________________
 ## CERTIFICATIONS
 _____________________________________________________________________
 
-**AZ-900** | Microsoft Certified: Azure Fundamentals | image
-**AI-900** | Microsoft Certified: Azure AI Fundamentals | image 
-**SC-900** | Microsoft Certified: Security, Compliance, and Identity Fundamentals | image
-**MS-900** | Microsoft 365 Certified: Fundamentals | image
-**SFC** | Scrum Fundamentals Certified (SFC) SCRUM study | image
+**AZ-900** | Microsoft Certified:<br /> Azure Fundamentals | image
+**AI-900** | Microsoft Certified:<br /> Azure AI Fundamentals | image 
+**SC-900** | Microsoft Certified:<br /> Security, Compliance, and Identity Fundamentals | image
+**MS-900** | Microsoft 365 Certified:<br /> Fundamentals | image
+**SFC** | Scrum Fundamentals Certified (SFC)<br /> SCRUM Study | image
 
 <br />
 
