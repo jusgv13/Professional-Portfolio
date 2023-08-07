@@ -1,5 +1,3 @@
- <link rel="shortcut icon" type="/assets/img/favicon.png" href="favicon.ico">
- 
 # Software Engineer
 <br />
 
