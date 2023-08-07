@@ -1,4 +1,4 @@
-# Software Engineer
+  # Software Engineer
 <br />
 
 ## EDUCATION
@@ -22,11 +22,11 @@ _____________________________________________________________________
 ## CERTIFICATIONS
 _____________________________________________________________________
 
-**AZ-900** | Microsoft Certified:<br /> Azure Fundamentals | image
-**AI-900** | Microsoft Certified:<br /> Azure AI Fundamentals | image 
-**SC-900** | Microsoft Certified:<br /> Security, Compliance, and Identity Fundamentals | image
-**MS-900** | Microsoft 365 Certified:<br /> Fundamentals | image
-**SFC** | Scrum Fundamentals Certified (SFC)<br /> SCRUM Study | image
+**AZ-900** | Microsoft Certified:<br /> Azure Fundamentals | ![AZ-900](/assets/img/AZ-900.png)
+**AI-900** | Microsoft Certified:<br /> Azure AI Fundamentals | ![AI-900](/assets/img/AI-900.png)
+**SC-900** | Microsoft Certified:<br /> Security, Compliance, and Identity Fundamentals | ![SC-900](/assets/img/SC-900.png)
+**MS-900** | Microsoft 365 Certified:<br /> Fundamentals | ![MS-900](/assets/img/MS-900.png)
+**SFC** | Scrum Fundamentals Certified<br /> SCRUM Study | image
 
 <br />
 
