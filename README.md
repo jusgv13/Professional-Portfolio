@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="/assets/img/favicon.png" href="favicon.ico">
+ 
 # Software Engineer
 <br />
 
@@ -24,7 +26,7 @@ _____________________________________________________________________
 
 **AZ-900** | Microsoft Certified:<br /> Azure Fundamentals | ![AZ-900](/assets/img/AZ-900.png)
 **AI-900** | Microsoft Certified:<br /> Azure AI Fundamentals | ![AI-900](/assets/img/AI-900.png)
-**SC-900** | Microsoft Certified:<br /> Security, Compliance, and Identity Fundamentals | ![SC-900](/assets/img/SC-900.png)
+**SC-900** | Microsoft Certified:<br /> Security, Compliance, and<br /> Identity Fundamentals | ![SC-900](/assets/img/SC-900.png)
 **MS-900** | Microsoft 365 Certified:<br /> Fundamentals | ![MS-900](/assets/img/MS-900.png)
 **SFC** | Scrum Fundamentals Certified<br /> SCRUM Study | ![SFC](/assets/img/SFC.png)
 
