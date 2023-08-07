@@ -46,5 +46,5 @@ _____________________________________________________________________
 **Municipalidad de Sarchí** 
 
 Design of a help desk software/Web API using Angular framework, C#, SQL, ASP.NET core, which will help the Municipalidad during the 
-organization and processing of requests.
+organization and processing of requests.<br />
 (_1 Years / 6 months, 2021-2022_).
