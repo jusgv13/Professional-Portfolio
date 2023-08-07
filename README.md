@@ -30,6 +30,15 @@ _____________________________________________________________________
 
 <br />
 
+## TECHNICAL SKILLS
+_____________________________________________________________________
+
+- Programming Languages: C, C++, C#, Java, JavaScript, HTML.
+- Databases: Microsoft SQL.
+- Version Control Systems: GitHub.
+  
+<br />
+
 ## PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
 _____________________________________________________________________
 
