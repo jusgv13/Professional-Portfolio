@@ -13,22 +13,22 @@ Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_Decem
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT**<br /> | Support Engineer Intern<br /> Sabana Sur, San José<br /> (7 months, 2023)
+**MICROSOFT** | Support Engineer Intern<br /> Sabana Sur, San José<br /> (7 months, 2023)
 
-**ARTECH**<br />    | Software Engineer<br /> Santa Ana, San José<br /> (7 months, 2022-2023)
+**ARTECH** | Software Engineer<br /> Santa Ana, San José<br /> (7 months, 2022-2023)
 
-**SYKES**<br />     | Manager/Trainer, Customer Service, Floor Support<br /> Aurora, Heredia<br /> (3 Years/ 6 months, 2018-2022)
+**SYKES** | Manager/Trainer, Customer Service, Floor Support<br /> Aurora, Heredia<br /> (3 Years/ 6 months, 2018-2022)
 
 <br />
 
 ## CERTIFICATIONS
 _____________________________________________________________________
 
-Microsoft Certified: Azure Fundamentals (AZ-900) | ![AZ-900](/assets/img/AZ-900.png)
-Microsoft Certified: Azure AI Fundamentals (AI-900).
-Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
-Microsoft 365 Certified: Fundamentals (MS-900).
-Scrum Fundamentals Certified (SFC) SCRUM study.
+* Microsoft Certified: Azure Fundamentals (AZ-900) | ![AZ-900](/assets/img/AZ-900.png)
+* Microsoft Certified: Azure AI Fundamentals (AI-900).
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
+* Microsoft 365 Certified: Fundamentals (MS-900).
+* Scrum Fundamentals Certified (SFC) SCRUM study.
 
 <br />
 
