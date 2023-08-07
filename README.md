@@ -3,7 +3,7 @@
 ## EDUCATION
 _________________________________________________________________
 
-* Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree (May 2023)								       		
+* Software Engineering | Universidad Nacional de Costa Rica (UNA) | Bachelor’s Degree (_May 2023_)								       		
 * Programming of Computer Applications Diploma Universidad Nacional de Costa Rica (UNA) (_November 2022_)	 			        		
 * Customer Service / High School Diploma C.T.P Jesús Ocaña Rojas (_December 2017_)
 
