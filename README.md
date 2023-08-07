@@ -5,19 +5,16 @@
 ## EDUCATION
 _________________________________________________________________
 
-**Software Engineering** | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
-**Programming of Computer Applications** | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
-**Customer Service** | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
+Software Engineering | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
+Programming of Computer Applications | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
+Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
 
 <br />
 
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT**<br />
-Support Engineer Intern<br />
-Sabana Sur, San José<br />
-(7 months, 2023)
+**MICROSOFT**<br /> | Support Engineer Intern<br /> Sabana Sur, San José<br /> (7 months, 2023)
 
 **ARTECH**<br />
 Software Engineer<br />
