@@ -1,5 +1,4 @@
 # Software Engineer
-
 <br />
 
 ## EDUCATION
