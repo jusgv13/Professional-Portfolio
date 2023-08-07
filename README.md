@@ -19,7 +19,7 @@ _____________________________________________________________________
 
 ## CERTIFICATIONS
 _____________________________________________________________________
-* Microsoft Certified: Azure Fundamentals | AZ-900 | ![AZ-900](/assets/img/AZ-900.png)
+Microsoft Certified: Azure Fundamentals | AZ-900 | ![AZ-900](/assets/img/AZ-900.png)
 * Microsoft Certified: Azure AI Fundamentals (AI-900).
 * Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
 * Microsoft 365 Certified: Fundamentals (MS-900).
