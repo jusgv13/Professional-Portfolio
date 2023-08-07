@@ -1,11 +1,13 @@
 # Software Engineer
+
 <br />
+
 ## EDUCATION
 _________________________________________________________________
 
-Software Engineering | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
-Programming of Computer Applications | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
-Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
+**Software Engineering** | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
+**Programming of Computer Applications** | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
+**Customer Service** | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
 
 <br />
 
@@ -43,7 +45,7 @@ _____________________________________________________________________
 ## PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
 _____________________________________________________________________
 
-Municipalidad de Sarchí 
+**Municipalidad de Sarchí** 
 
 Design of a help desk software/Web API using Angular framework, C#, SQL, ASP.NET core, which will help the Municipalidad during the 
 organization and processing of requests.
