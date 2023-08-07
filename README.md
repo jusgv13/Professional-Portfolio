@@ -11,9 +11,9 @@ _________________________________________________________________
 _____________________________________________________________________
 
 - **MICROSOFT**
-Support Engineer Intern
-Sabana Sur, San José
-(7 months, 2023)
+<p>Support Engineer Intern<br>
+<p>Sabana Sur, San José<br>
+<p>(7 months, 2023)<br>
 
 - **ARTECH**  
 Software Engineer
