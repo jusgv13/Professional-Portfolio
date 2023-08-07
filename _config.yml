@@ -1,7 +1,5 @@
 title: Justin González Vega
 logo: /assets/img/Profile.jpg
-bold:
-- Business English Level B2+
 description: Business English Level B2+
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
