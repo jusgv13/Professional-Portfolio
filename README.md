@@ -7,6 +7,8 @@ Software Engineering | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor
 Programming of Computer Applications | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
 Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
 
+<br />
+
 ## EXPERIENCE
 _____________________________________________________________________
 
@@ -25,6 +27,7 @@ Manager/Trainer, Customer Service, Floor Support<br />
 Aurora, Heredia<br />
 (3 Years/ 6 months, 2018-2022)
 
+<br />
 
 ## CERTIFICATIONS
 _____________________________________________________________________
@@ -35,6 +38,8 @@ _____________________________________________________________________
 * Microsoft 365 Certified: Fundamentals (MS-900).
 * Scrum Fundamentals Certified (SFC) SCRUM study.
 
+<br />
+
 ## PROJECTS AND EXTRA-CURRICULAR ACTIVITIES
 _____________________________________________________________________
 
@@ -44,6 +49,3 @@ Design of a help desk software/Web API using Angular framework, C#, SQL, ASP.NET
 organization and processing of requests.
 
 (1 Years / 6 months, 2021-2022)
-
-
-
