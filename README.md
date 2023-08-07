@@ -12,9 +12,9 @@ _____________________________________________________________________
 
 **MICROSOFT**
 
-Support Engineer Intern__
-Sabana Sur, San José__
-(7 months, 2023)__
+Support Engineer Intern_ _
+Sabana Sur, San José<br />
+(7 months, 2023)
 
 **ARTECH**
 Software Engineer
@@ -30,7 +30,7 @@ Aurora, Heredia
 ## CERTIFICATIONS
 _____________________________________________________________________
 
-Microsoft Certified: Azure Fundamentals (AZ-900). | ![AZ-900](/assets/img/AZ-900.png)
+* Microsoft Certified: Azure Fundamentals (AZ-900).
 * Microsoft Certified: Azure AI Fundamentals (AI-900).
 * Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
 * Microsoft 365 Certified: Fundamentals (MS-900).
