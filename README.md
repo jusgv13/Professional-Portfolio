@@ -14,7 +14,7 @@ Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_Decem
 _____________________________________________________________________
 
 **MICROSOFT** | Support Engineer Intern<br /> Sabana Sur, San José<br /> (_7 months, 2023_)
-**ARTECH** | Software Engineer<br /> Santa Ana, San José<br /> (_7 months, 2022-2023_)
+**ARTECH** | Cloud/Infrastructure Engineer<br /> Santa Ana, San José<br /> (_7 months, 2022-2023_)
 **SYKES** | Manager/Trainer, Customer Service, Floor Support<br /> Aurora, Heredia<br /> (_3 Years/ 6 months, 2018-2022_)
 
 <br />
