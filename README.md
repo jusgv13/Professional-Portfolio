@@ -2,7 +2,7 @@
 <br />
 
 ## ABOUT ME
-<br />
+_____________________________________________________________________
 
 Tech and Innovation lover. During my experience I had the opportunity to develop knowledge in 
 relation to technological progress, devices and acquire a broad understanding of knowledge areas 
