@@ -43,7 +43,7 @@ _____________________________________________________________________
 **AI-900** | Microsoft Certified:<br /> Azure AI Fundamentals                           | ![AI-900](/assets/img/AI-900.png)
 **SC-900** | Microsoft Certified:<br /> Security, Compliance, and Identity Fundamentals | ![SC-900](/assets/img/SC-900.png)
 **DP-900** | Microsoft Certified:<br /> Azure Data Fundamentals                         | ![DP-900](/assets/img/DP-900.png)
-**NSE 2**  | Network Security Associate<br /> Fortinet                                  | ![NSE 2](/assets/img/NSE2.png)
+**NSE 2**  | Network Security Associate<br /> Fortinet                                  | ![NSE2](/assets/img/NSE2.png)
 **SFC**    | Scrum Fundamentals Certified<br /> SCRUM Study                             | ![SFC](/assets/img/SFC.png)
 
 <br />
