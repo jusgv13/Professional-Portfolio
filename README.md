@@ -1,6 +1,9 @@
 # Software Engineer
 <br />
 
+<br />
+
+**About me**
 Tech and Innovation lover. During my experience I had the opportunity to develop knowledge in relation to technological progress, devices and acquire a broad understanding of knowledge areas related to software development and new technological advances.
 
 Passionate about learning about new cultures, their languages, structure and other important aspects such as broadening perspectives and interacting with new ideas and approaches.
