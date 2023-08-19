@@ -1,7 +1,7 @@
 # Software Engineer
 <br />
 
-##ABOUT ME
+## ABOUT ME
 <br />
 
 Tech and Innovation lover. During my experience I had the opportunity to develop knowledge in 
