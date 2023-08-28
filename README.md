@@ -20,18 +20,18 @@ myself a nature lover and discovering new experiences that contribute to my cont
 ## EDUCATION
 _____________________________________________________________________
 
-Software Engineering | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
-Programming of Computer Applications | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
-Customer Service | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
+**Software Engineering** <br /> Desamparados, Alajuela | Universidad Nacional de Costa Rica<br /> (UNA) | Bachelor’s Degree<br /> (_May 2023_)								       		
+**Programming of Computer Applications** <br /> Desamparados, Alajuela | Universidad Nacional de Costa Rica<br /> (UNA) | Diploma (_November 2022_)	 			        		
+**Customer Service** <br /> Canoas, Alajuela  | C.T.P Jesús Ocaña Rojas | High School Diploma<br /> (_December 2017_)
 
 <br />
 
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT** <br /> Sabana Sur, San José | Support Engineer Intern<br /> (_(7 months, Feb 2023 – Aug 2023_)
-**ARTECH** <br /> Santa Ana, San José | Cloud/Infrastructure Engineer<br /> (_7 months, Aug 2022 – Feb 2023_)
-**SYKES** <br /> Aurora, Heredia | Operations Manager/Trainer, <br /> (_1 Year/ 5 months, Mar 2021 – Aug 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month, Jan 2020 – Feb 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, Aug 2018 – Dec 2019_)
+**MICROSOFT** <br /> Sabana Sur, San José | Support Engineer Intern<br /> (_(7 months, Feb 2023 – Aug 2023_) <br />
+**ARTECH** <br /> Santa Ana, San José | Cloud/Infrastructure Engineer<br /> (_7 months, Aug 2022 – Feb 2023_) <br />
+**SYKES** <br /> Aurora, Heredia | Operations Manager/Trainer <br /> (_1 Year/ 5 months, Mar 2021 – Aug 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month, Jan 2020 – Feb 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, Aug 2018 – Dec 2019_)
 
 <br />
 
