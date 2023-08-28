@@ -31,7 +31,7 @@ _____________________________________________________________________
 
 **MICROSOFT** <br /> Sabana Sur, San José | Support Engineer Intern <br /> (_7 months, Feb 2023 – Aug 2023_)
 
-**ARTECH** <br /> Santa Ana, San José | Cloud/Infrastructure Engineer <br /> (_7 months, Aug 2022 – Feb 2023_)
+**ARTECH** <br /> Santa Ana, San José | Cloud / Infrastructure Engineer <br /> (_7 months, Aug 2022 – Feb 2023_)
 
 **SYKES** <br /> Aurora, Heredia | Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
 
