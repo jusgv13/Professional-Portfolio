@@ -33,7 +33,7 @@ _____________________________________________________________________
 
 **ARTECH** <br /> Santa Ana, San José <br /> Cloud / Infrastructure Engineer <br /> (_7 months, Aug 2022 – Feb 2023_) <br /> <br />
 
-**SYKES** <br /> Aurora, Heredia <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
+**SYKES** <br /> Aurora, Heredia <br /> <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
 
 <br />
 
