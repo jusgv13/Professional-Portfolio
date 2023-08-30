@@ -22,16 +22,16 @@ _____________________________________________________________________
 
 **Universidad Nacional de Costa Rica (UNA)** <br /> Desamparados, Alajuela | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
 
-**C.T.P Jesús Ocaña Rojas** <br /> Canoas, Alajuela | Customer Service Diploma <br /> (_December 2017_) <br /> <br /> High School Diploma <br /> (_December 2017_) 
+**C.T.P Jesús Ocaña Rojas** <br /> Canoas, Alajuela | Customer Service Technical Diploma <br /> (_December 2017_) <br /> <br /> High School Diploma <br /> (_December 2017_) 
 
 <br />
 
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_7 months, Feb 2023 – Aug 2023_) <br /> <br />
+**MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
 
-**ARTECH** <br /> Santa Ana, San José <br /> Cloud / Infrastructure Engineer <br /> (_7 months, Aug 2022 – Feb 2023_) <br /> <br />
+**ARTECH** <br /> Santa Ana, San José <br /> Cloud / Infrastructure Engineer <br /> (_6 months, Aug 2022 – Feb 2023_) <br /> <br />
 
 **SYKES** <br /> Aurora, Heredia <br /> <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
 
