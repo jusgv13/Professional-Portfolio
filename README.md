@@ -22,7 +22,7 @@ _____________________________________________________________________
 
 **Universidad Nacional de Costa Rica (UNA)** <br /> Desamparados, Alajuela | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
 
-**C.T.P Jesús Ocaña Rojas** <br /> Canoas, Alajuela | Customer Service Technical Diploma <br /> (_December 2017_) <br /> <br /> High School Diploma <br /> (_December 2017_) 
+**C.T.P Jesús Ocaña Rojas** <br /> Canoas, Alajuela | Customer Service Diploma <br /> (_December 2017_) <br /> <br /> High School Diploma <br /> (_December 2017_) 
 
 <br />
 
