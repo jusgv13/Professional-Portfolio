@@ -1,4 +1,6 @@
 # Software Engineer
+Email: justin.gonzalez.vega@outlook.com / justin.gonzalezv13@gmail.com
+
 <br />
 
 ## ABOUT ME
