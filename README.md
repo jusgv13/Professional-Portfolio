@@ -53,13 +53,18 @@ _____________________________________________________________________
 
 <br />
 
-## TECHNICAL SKILLS
+## TECHNICAL/SOFT SKILLS
 _____________________________________________________________________
 
-- Programming Languages: C, C++, C#, Java, JavaScript, HTML.
-- Databases: Microsoft SQL.
-- Version Control Systems: GitHub.
+- Programming Languages: C, C++, C#, Java, JavaScript, HTML, PHP.
+- Databases: Microsoft SQL Server, MySQL.
+- Version Control Systems: Git, GitHub.
+- IT Methodologies: Agile/SCRUM, ITIL, DevOps.
+- Operating Systems: Linux, Windows.
 - Business English Level B2+.
+<br />
+
+- Problem Solver, Critical Thinking, Leadership, Teamwork, Networking, Time Management, Active Listening.
   
 <br />
 
