@@ -1,6 +1,6 @@
 # Software Engineer
-Email: justin.gonzalez.vega@outlook.com / justin.gonzalezv13@gmail.com
-LinkedIn Profile: https://www.linkedin.com/in/justin-gonzalez-vega/
+**Email:** justin.gonzalez.vega@outlook.com / justin.gonzalezv13@gmail.com
+**LinkedIn Profile:** https://www.linkedin.com/in/justin-gonzalez-vega/
 
 <br />
 
