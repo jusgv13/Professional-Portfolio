@@ -40,7 +40,7 @@ Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Def
 Process management on Infrastructure, IT Security Governance and Compliance in a Microsoft Environment (Azure Active Directory, MicrosoftIntune). IT End User Support.
 <br />
 
-**SYKES** <br /> Aurora, Heredia <br /> <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
+**SYKES** <br /> Aurora, Heredia <br /> <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_) <br />
 Transitioned from a Customer Service Agent to an Operations Manager/Trainer, demonstrating strong leadership and organizational skills. I streamlined operations, enhanced customer service, and mentored new hires to foster excellence and positive work environments.
 <br />
 
