@@ -33,10 +33,16 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 **MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
+Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
+<br />
 
 **ARTECH** <br /> Santa Ana, San José <br /> Cloud / Infrastructure Engineer <br /> (_6 months, Aug 2022 – Feb 2023_) <br /> <br />
+Process management on Infrastructure, IT Security Governance and Compliance in a Microsoft Environment (Azure Active Directory, MicrosoftIntune). IT End User Support.
+<br />
 
 **SYKES** <br /> Aurora, Heredia <br /> <br /> Operations Manager/Trainer <br /> (_1 Year/ 5 months, 2021 - 2022_) <br /> <br /> Floor Support <br /> (_1 Year/ 1 month,  2020 - 2021_) <br /> <br /> Customer Service Agent <br /> (_1 Year/ 4 months, 2018 - 2019_)
+Transitioned from a Customer Service Agent to an Operations Manager/Trainer, demonstrating strong leadership and organizational skills. I streamlined operations, enhanced customer service, and mentored new hires to foster excellence and positive work environments.
+<br />
 
 <br />
 
