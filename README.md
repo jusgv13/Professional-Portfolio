@@ -82,6 +82,6 @@ _____________________________________________________________________
 Design of a help desk software/Web API using Angular framework, C#, SQL, ASP.NET core, which will help the Municipalidad during the 
 organization and processing of requests.<br />
 <br />
-(_1 Year/ 4 months, 2021 – Jun 2022_).
+(_1 Year/ 4 months, 2021 – Jun 2022_). <br />
 Associated with Universidad Nacional de Costa Rica (UNA).
 
