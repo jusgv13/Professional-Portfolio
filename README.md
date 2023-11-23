@@ -32,6 +32,10 @@ _____________________________________________________________________
 ## EXPERIENCE
 _____________________________________________________________________
 
+**TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Present_) <br /> <br />
+Acquired practical proficiency in supporting Microsoft Security Features.
+<br />
+
 **MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
 Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
 <br />
