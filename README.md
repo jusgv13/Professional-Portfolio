@@ -33,7 +33,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 **TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Present_) <br /> <br />
-Acquired practical proficiency in supporting Microsoft Security Features.
+Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP) and others.
 <br />
 
 **MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
