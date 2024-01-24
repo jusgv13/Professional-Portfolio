@@ -33,7 +33,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 **TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Present_) <br /> <br />
-Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP) and others.
+Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP)...
 <br />
 
 **MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
@@ -83,8 +83,7 @@ _____________________________________________________________________
 
 **Municipalidad de Sarchí** <br /> Sarchí, Alajuela
 
-Design of a help desk software/Web API using Angular framework, C#, SQL, ASP.NET core, which will help the Municipalidad during the 
-organization and processing of requests.<br />
+Design of a help desk software, implementing Angular framework, C#, SQL, ASP.NET core, which will help the Municipalidad de Sarchí in the organization and processing of requests.<br />
 <br />
 (_1 Year/ 4 months, 2021 – Jun 2022_). <br />
 Associated with Universidad Nacional de Costa Rica (UNA).
