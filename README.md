@@ -32,7 +32,7 @@ _____________________________________________________________________
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT** <br /> Sabana Sur, San José <br /><br /> Supoort Engineer <br /> (_Mar 2024 – PRESENT_) <br /> <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> 
+**MICROSOFT** <br /> Sabana Sur, San José <br /><br /> Support Engineer <br /> (_Mar 2024 – PRESENT_) <br /> <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> 
 <br /> Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
 <br />
 
