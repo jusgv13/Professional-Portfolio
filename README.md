@@ -36,7 +36,7 @@ _____________________________________________________________________
 <br /> Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
 <br />
 
-**TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /><br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Mar 2024_) <br /> <br />
+**TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /><br /> Microsoft Defender Support Engineer <br /> (_6 months, Oct 2023 – Mar 2024_) <br /> <br />
 Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP)...
 <br />
 
