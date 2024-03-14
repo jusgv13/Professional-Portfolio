@@ -32,12 +32,12 @@ _____________________________________________________________________
 ## EXPERIENCE
 _____________________________________________________________________
 
-**TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Present_) <br /> <br />
-Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP)...
+**MICROSOFT** <br /> Sabana Sur, San José <br /> Supoort Engineer <br /> (_Mar 2023 – PRESENT_) <br /> <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> 
+<br /> Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
 <br />
 
-**MICROSOFT** <br /> Sabana Sur, San José <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> <br />
-Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
+**TECH MAHINDRA ALLYS** <br /> Pavas, San José <br /> Microsoft Defender Support Engineer <br /> (_Oct 2023 – Mar 2024_) <br /> <br />
+Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP)...
 <br />
 
 **ARTECH** <br /> Santa Ana, San José <br /> Cloud / Infrastructure Engineer <br /> (_6 months, Aug 2022 – Feb 2023_) <br /> <br />
