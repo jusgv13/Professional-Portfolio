@@ -40,7 +40,7 @@ _____________________________________________________________________
 Microsoft Defender for Office 365 Team (MDO). Acquired practical proficiency in supporting Microsoft Security Features like Attack Simulation, Safe Links/Attachments, Incidents & Alerts, Exhange Online Protection (EOP), Zero-hour Auto Purge (ZAP)...
 <br />
 
-**ARTECH** <br /> Santa Ana, San José <br /><br /> Cloud / Infrastructure Engineer <br /> (_6 months, Aug 2022 – Feb 2023_) <br /> <br />
+**ARTECH** <br /> Santa Ana, San José <br /><br /> IT Infrastructure Engineer <br /> (_6 months, Aug 2022 – Feb 2023_) <br /> <br />
 Process management on Infrastructure, IT Security Governance and Compliance in a Microsoft Environment (Azure Active Directory, Microsoft Intune). IT End User Support.
 <br />
 
