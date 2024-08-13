@@ -23,9 +23,9 @@ myself a nature lover and discovering new experiences that contribute to my cont
 ## EDUCATION
 _____________________________________________________________________
 
-**Tecnológico de Costa Rica** <br /> Cartago, Costa Rica | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) 
+**Tecnológico de Costa Rica** <br /> Cartago, Costa Rica | Master in Information Technology Management - Master's degree <br /> (_Jul 2024 - PRESENT_) 
 
-**Universidad Nacional de Costa Rica** <br /> Alajuela, Costa Rica | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
+**Universidad Nacional de Costa Rica (UNA)** <br /> Alajuela, Costa Rica | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
 
 **C.T.P Jesús Ocaña Rojas** <br /> Alajuela, Costa Rica | Customer Service Diploma <br /> (_December 2017_) <br /> <br /> High School Diploma <br /> (_December 2017_) 
 
