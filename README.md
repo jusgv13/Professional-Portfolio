@@ -23,7 +23,7 @@ myself a nature lover and discovering new experiences that contribute to my cont
 ## EDUCATION
 _____________________________________________________________________
 
-**Tecnológico de Costa Rica (TEC) 1234567891011** <br /> Cartago, Costa Rica ‎| Master in Information Technology Management - Master's degree ‎<br /> (_Jul 2024 - PRESENT_) 
+**Tecnológico de Costa Rica (TEC) 12345678910111213** <br /> Cartago, Costa Rica ‎| Master in Information Technology Management - Master's degree ‎<br /> (_Jul 2024 - PRESENT_) 
 
 **Universidad Nacional de Costa Rica (UNA)** <br /> Alajuela, Costa Rica | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
 
