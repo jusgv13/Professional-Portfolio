@@ -23,7 +23,7 @@ myself a nature lover and discovering new experiences that contribute to my cont
 ## EDUCATION
 _____________________________________________________________________
 
-**Tecnológico de Costa Rica (TEC)** <br /> Cartago, Costa Rica | Master in Information Technology Management - Master's degree <br /> (_Jul 2024_) 
+**Tecnológico de Costa Rica (TEC)** <br /> Cartago, Costa Rica           | Master in Information Technology Management - Master's degree <br /> (_Jul 2024 - PRESENT_) 
 
 **Universidad Nacional de Costa Rica (UNA)** <br /> Alajuela, Costa Rica | Software Engineering - Bachelor’s Degree <br /> (_May 2023_) <br /> <br /> Programming of Computer Applications - Diploma <br /> (_November 2022_)
 
@@ -34,7 +34,7 @@ _____________________________________________________________________
 ## EXPERIENCE
 _____________________________________________________________________
 
-**MICROSOFT** <br /> Sabana Sur, San José <br /><br /> Support Engineer <br /> (_Mar 2024 – PRESENT_) <br /> <br /> Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> 
+**MICROSOFT** <br /> Sabana Sur, San José <br /><br /> | Support Engineer <br /> (_Mar 2024 – PRESENT_) <br /> <br /> | Support Engineer Intern <br /> (_6 months, Feb 2023 – Aug 2023_) <br /> 
 <br /> Gained hands-on expertise in hybrid environments, Exchange Online, Microsoft Defender, Safe Links/Attachments, Content Filtering, Cloud issues, mail flow, customer tenant problem-solving, PowerShell and case management skills.
 <br />
 
